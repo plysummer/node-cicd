@@ -1,7 +1,7 @@
 {
   "name": "node-actions-cicd",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "一个学习Github Actions CICD的小项目",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
