@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/plysummer/node-cicd/compare/v1.0.0...v1.1.0) (2022-12-13)
+
+
+### Features
+
+* update calc function ([cb874d8](https://github.com/plysummer/node-cicd/commit/cb874d8360a20cb9454c7062aa95ee915ded897e))
+
 # 1.0.0 (2022-12-13)
 
 
