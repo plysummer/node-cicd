@@ -1,5 +1,5 @@
 import calc from '../src'
 
-test('The calculation result should be 996.', () => {
-    expect(calc(1024, 28)).toBe(1006)
+test('The calculation result should be 1007.', () => {
+    expect(calc(1024, 28)).toBe(1007)
 })
