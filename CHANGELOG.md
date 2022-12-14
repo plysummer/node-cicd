@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/plysummer/node-cicd/compare/v1.1.0...v1.1.1) (2022-12-14)
+
+
+### Bug Fixes
+
+* change patch ([d0cdf91](https://github.com/plysummer/node-cicd/commit/d0cdf91f9209da51b9eb1deabf673f305ad0b9ab))
+
 # [1.1.0](https://github.com/plysummer/node-cicd/compare/v1.0.0...v1.1.0) (2022-12-13)
 
 
